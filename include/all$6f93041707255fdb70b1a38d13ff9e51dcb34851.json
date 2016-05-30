@@ -1,0 +1,154 @@
+{
+    "packages": {
+        "thesebas/mitm": {
+            "0.1": {
+                "name": "thesebas/mitm",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/thesebas/mitm-http-forward.git",
+                    "reference": "2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/thesebas/mitm-http-forward/zipball/2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87",
+                    "reference": "2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.2",
+                    "monolog/monolog": "^1.19",
+                    "silex/silex": "^1.3"
+                },
+                "time": "2016-05-15 16:54:49",
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "thesebas",
+                        "email": "thesebas@thesebas.net"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/thesebas/mitm-http-forward/tree/master",
+                    "issues": "https://github.com/thesebas/mitm-http-forward/issues"
+                }
+            },
+            "dev-master": {
+                "name": "thesebas/mitm",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/thesebas/mitm-http-forward.git",
+                    "reference": "2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/thesebas/mitm-http-forward/zipball/2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87",
+                    "reference": "2222807c883dbf4cb0f81b0f45b1a9f7b62f1e87",
+                    "shasum": ""
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.2",
+                    "monolog/monolog": "^1.19",
+                    "silex/silex": "^1.3"
+                },
+                "time": "2016-05-15 16:54:49",
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "thesebas",
+                        "email": "thesebas@thesebas.net"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/thesebas/mitm-http-forward/tree/master",
+                    "issues": "https://github.com/thesebas/mitm-http-forward/issues"
+                }
+            }
+        },
+        "thesebas/settingsloader": {
+            "0.1": {
+                "name": "thesebas/settingsloader",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/thesebas/configloader.git",
+                    "reference": "2327484edf7da481702be1279e51633ca91a7b31"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/thesebas/configloader/zipball/2327484edf7da481702be1279e51633ca91a7b31",
+                    "reference": "2327484edf7da481702be1279e51633ca91a7b31",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "5.x"
+                },
+                "time": "2016-05-30 21:12:57",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "thesebas\\": "src"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "thesebas",
+                        "email": "thesebsa@thesebas.net"
+                    }
+                ],
+                "description": "simple cascading config loader",
+                "support": {
+                    "source": "https://github.com/thesebas/configloader/tree/0.1",
+                    "issues": "https://github.com/thesebas/configloader/issues"
+                }
+            },
+            "dev-master": {
+                "name": "thesebas/settingsloader",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/thesebas/configloader.git",
+                    "reference": "2327484edf7da481702be1279e51633ca91a7b31"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/thesebas/configloader/zipball/2327484edf7da481702be1279e51633ca91a7b31",
+                    "reference": "2327484edf7da481702be1279e51633ca91a7b31",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "5.x"
+                },
+                "time": "2016-05-30 21:12:57",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "thesebas\\": "src"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "thesebas",
+                        "email": "thesebsa@thesebas.net"
+                    }
+                ],
+                "description": "simple cascading config loader",
+                "support": {
+                    "source": "https://github.com/thesebas/configloader/tree/0.1",
+                    "issues": "https://github.com/thesebas/configloader/issues"
+                }
+            }
+        }
+    }
+}
